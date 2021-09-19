@@ -1,2 +1,2 @@
 # TheMessagingApp
- Created an app that sends and receives messages
+ Created an app on android studio where one sends a message and receives a reply.
